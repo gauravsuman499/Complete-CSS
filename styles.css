@@ -1,0 +1,28 @@
+*{
+    border: 2px solid red ;
+}
+
+body{
+    font-size: 22px;
+}
+
+p{
+    color: purple;
+}
+h1{
+    text-align: center;
+}
+h1, h2{
+    color: blue;
+}
+.gray{
+    color: brown;
+}
+p span{
+    text-transform: uppercase;
+    color: gold;
+}
+#second{
+    font-style: italic;
+    color: green;
+}
